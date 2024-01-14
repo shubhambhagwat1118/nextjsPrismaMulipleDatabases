@@ -21,6 +21,6 @@ npx prisma db pull --schema .\prisma\pqsql.prisma; <br />
 npx prisma generate --schema .\prisma\mysql.prisma; <br />
 npx prisma generate --schema .\prisma\pqsql.prisma; <br />
 <br />
-# To run the prisma studio <br />
+# To run the prisma studio(optional) <br />
 npx prisma studio --schema /prisma/mysql.prisma <br />
 npx prisma studio --schema /prisma/pqsql.prisma <br />
