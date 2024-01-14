@@ -3,7 +3,7 @@ How to connect multiple databases in Prisma for Nextjs
 __
 __
 # Usefull Commands
-npm install prisma --save-dev__
+npm install prisma --save-dev <br />
 npx prisma init --datasource-provider mysql__
 __
 --create multiple prisma.ts files in db folder__
